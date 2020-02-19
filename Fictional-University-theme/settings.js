@@ -1,10 +1,10 @@
-exports.themeLocation = './app/wp-content/themes/fictional-university-theme/';
-exports.urlToPreview = 'http://fictional-university.test';
+exports.themeLocation = './app/public/wp-content/themes/Wordpress-Fake-University/Fictional-University-theme/';
+exports.urlToPreview = 'http://fictional-university.local/';
 
 // If you're using Local by Flywheel you will
 // want your settings to be similar to the examples below:
 
-// exports.themeLocation = './public/wp-content/themes/fictional-university-theme/';
+// exports.themeLocation = './public///themes/fictional-university-theme/';
 // exports.urlToPreview = 'http://fictional-university.local/';
 
 // Simply remove the two slashes at the front of those lines
